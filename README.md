@@ -63,13 +63,46 @@ Computer Science 61C
 
 Machine Structures - The internal organization and operation of digital computers. Machine architecture, support for high-level languages (logic, arithmetic, instruction sequencing) and operating systems (I/O, interrupts, memory management, process switching). Elements of computer logic design. Tradeoffs involved in fundamental architectural design decisions.
 
-##Operating Systems
+## Operating Systems
 
+## Computer Architecture
 
-##Networking
+## Networking
 
 [CCNA Training Series](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC)
 A full course of 84 videos for CCNA 200-120 Routing and Switching taught by Cisco Instructor Andrew Crouthamel. Videos 1-32 give a good overview of basic networking priciples. 
 
 Two similar courses on NPTEL give an understanding of all kinds of communication and networking, from the 'physical layer' (the design of the cables and voltage levels on the wires, or radio frequencies being broadcast), up through to routing and the transport layer. 
 http://nptel.ac.in/courses/106105082/
+
+## Algorithms and Data Structures
+
+## Software Engineering
+
+## Javascript
+
+## Unix
+
+## Databases
+
+## AI
+
+## Discrete Mathematics
+
+## Embedded Systems
+
+## Robotics
+
+## Computer Architecture
+
+## Machine Vision
+
+## Computer Graphics
+
+## Programming Languages and Compilers
+
+## Security
+
+## Talks
+
+## Soft Subjects
